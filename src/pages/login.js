@@ -15,7 +15,7 @@ const Login = () => {
           <div className="flex justify-center">
             <img className="w-[85%]" src={pics} />
           </div>
-          <div className="flex flex-col justify-center items-center mt-3 Lora font-semibold">
+          <div className="flex flex-col justify-center items-center gap-2 mt-7 Lora font-semibold">
             <p className="text-[#61227D] text-[18px] lg:text-[20px]">
               Team Achieve
             </p>
